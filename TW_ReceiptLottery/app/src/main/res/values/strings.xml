@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">android_num_10_TW_ReceiptLottery</string>
+    <string name="app_name">TW_ReceiptLottery</string>
     <string name="title">2018 統一發票兌獎</string>
     <string name="_1to2">2018 1,2月發票</string>
     <string name="_3to4">2018 3,4月發票</string>
